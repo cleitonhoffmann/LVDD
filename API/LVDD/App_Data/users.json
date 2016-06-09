@@ -1,0 +1,22 @@
+[
+	{
+		firstName: 'FirstName1',
+		lastName: 'LastName2',
+		email: 'a@a.com'
+	},
+	{
+		firstName: 'FirstName2',
+		lastName: 'LastName2',
+		email: 'a@a.com'
+	},
+	{
+		firstName: 'Sou',
+		lastName: 'Legal',
+		email: 'a@a.com.br.br.br'
+	},
+	{
+		firstName: 'Sou',
+		lastName: 'Ainda Mais Legal',
+		email: 'a@a.com.br.br.br.br'
+	}
+]
