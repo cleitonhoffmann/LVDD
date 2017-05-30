@@ -1,2 +1,3 @@
 # LVDD
-Exemplo de aplicação Web, Cordova e Xamarin.Forms para consumir API em Asp.Net MVC Web API.
+
+Example of Web Application, Cordova and Xamarin.Forms to consume API in Asp.Net MVC Web Api.
